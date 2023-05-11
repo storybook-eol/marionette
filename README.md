@@ -1,6 +1,6 @@
-# Storybook for marionette
-
 > **NOTE: This project is unmaintained and has been archived. If you wish to maintain it, please reach out to the Storybook maintainers on Discord at https://discord.gg/storybook**
+
+# Storybook for marionette
 
 Storybook is a workshop for isolated component development, documentation, and testing. It is documented extensively at https://storybook.js.org.
 
